@@ -56,7 +56,7 @@ for(int i = 0; i < n; i++)
 //Необязательная задачка: Написать программу сортировки массива от большего к меньшему. 
 //Массив задается размерностью N с клавиатуры, далее заполняется случайными целыми числами.
 
-/*Console.Write("Введите колличество эллементов массива = ");
+Console.Write("Введите колличество эллементов массива = ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] arr = new int[n];
 for(int i = 0; i < n; i++)
@@ -78,7 +78,7 @@ for(int i = 0; i < arr.GetLength(0); i++)
     for(int j = 0; j < arr.GetLength(0) - 1 - i; j++)
     {
        int temp;
-       if(arr[j]>arr[j+1])
+       if(arr[j]<arr[j+1])
        {
             temp = arr[j];
             arr[j] = arr[j+1];
@@ -92,4 +92,3 @@ for(int i = 0; i < arr.GetLength(0); i++)
     if (i!= n-1) Console.Write($"{arr[i]},");
     else Console.WriteLine($"{arr[i]}!");
 }
-*/
