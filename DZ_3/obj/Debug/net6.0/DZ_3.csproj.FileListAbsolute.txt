@@ -1,0 +1,15 @@
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.csproj.AssemblyReference.cache
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.GeneratedMSBuildEditorConfig.editorconfig
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.AssemblyInfoInputs.cache
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.AssemblyInfo.cs
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.csproj.CoreCompileInputs.cache
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/bin/Debug/net6.0/DZ_3
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/bin/Debug/net6.0/DZ_3.deps.json
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/bin/Debug/net6.0/DZ_3.runtimeconfig.json
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/bin/Debug/net6.0/DZ_3.dll
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/bin/Debug/net6.0/DZ_3.pdb
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.dll
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/refint/DZ_3.dll
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.pdb
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/DZ_3.genruntimeconfig.cache
+/media/alexandro/Data/GB/1.C#/TimurIslamgulov/DZ_3/obj/Debug/net6.0/ref/DZ_3.dll
